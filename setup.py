@@ -4,7 +4,7 @@ setup(
     name='transientmining',
     version='0.1.0',    
     description='A package that mines MeerKAT data and search for transient',
-    url='',
+    url='https://github.com/SihlanguI/transientmining.git',
     author='Isaac Sihlangu',
     author_email='isihlangu@sarao.ac.za',
     packages=['transientmining'],
